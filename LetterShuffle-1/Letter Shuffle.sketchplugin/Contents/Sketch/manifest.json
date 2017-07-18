@@ -1,0 +1,24 @@
+{
+    "name" : "Letter Shuffle",
+    "identifier" : "letter.shuffle",
+    "version" : "1.0",
+    "description" : "Shuffles letters.",
+    "authorEmail" : "portis118@gmail.com",
+    "author" : "Lauren Porter",
+    "commands" : [
+      {
+        "script" : "letter_shuffle.js",
+        "handler" : "onRun",
+        "shortcut" : "cmd option l",
+        "name" : "Toggle Letter Shuffle",
+        "identifier" : "lettershuffle-toggle",
+      },
+    ],
+    "menu" : {
+      "title" : "Letter Shuffle",
+      "isRoot" : true,
+      "items" : [
+        "lettershuffle-toggle",
+      ]
+    }
+}
