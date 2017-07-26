@@ -1,24 +1,24 @@
 {
-    "name" : "Letter Shuffle",
-    "identifier" : "letter.shuffle",
+    "name" : "Dyslexia Simulator",
+    "identifier" : "dyslexia.simulator",
     "version" : "1.0",
-    "description" : "Shuffles letters.",
+    "description" : "Simulates dyslexia.",
     "authorEmail" : "portis118@gmail.com",
     "author" : "Lauren Porter",
     "commands" : [
       {
-        "script" : "letter_shuffle.js",
+        "script" : "dyslexia_simulator.js",
         "handler" : "onRun",
         "shortcut" : "cmd option l",
-        "name" : "Toggle Letter Shuffle",
-        "identifier" : "lettershuffle-toggle",
+        "name" : "Toggle Dyslexia Simulator",
+        "identifier" : "dyslexiasimulator-toggle",
       },
     ],
     "menu" : {
-      "title" : "Letter Shuffle",
+      "title" : "Dyslexia Simulator",
       "isRoot" : true,
       "items" : [
-        "lettershuffle-toggle",
+        "dyslexiasimulator-toggle",
       ]
     }
 }

@@ -18,7 +18,7 @@ function onRun(context) {
     }
 
     if (artboard == null) {
-      [app displayDialog:"Select an artboard to shuffle letters." withTitle:"Select Artboard"]
+      [app displayDialog:"Please select an artboard to see simulation." withTitle:"Select Artboard"]
       active = false
       return
     }
