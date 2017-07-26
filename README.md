@@ -14,9 +14,9 @@ Select an artboard, toggle Dyslexia Simulator, and watch the letters move. You c
 
 ## Note about Dyslexia
 There is no single “Dyslexia experience”, and this plugin is not intended to tokenize the experience of anyone with Dyslexia. 
-Some resources around Dyslexia and designing for cognitive impairments:
+Some resources around learning disabilities and cognitive impairments:
 
 - [Dyslexia Basics](https://dyslexiaida.org/dyslexia-basics/)
 - [The Paradox of Dyslexia: Slow Reading, Fast Thinking](http://www.yalescientific.org/2011/04/the-paradox-of-dyslexia-slow-reading-fast-thinking/)
-- [WebAIM: Cognitive Impairments Overview](http://webaim.org/articles/cognitive/cognitive_too_little/)
+- [WebAIM: Cognitive Disabilities](http://webaim.org/articles/cognitive/cognitive_too_little/)
 - [WC3: Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
