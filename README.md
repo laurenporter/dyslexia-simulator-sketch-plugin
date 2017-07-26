@@ -1,5 +1,5 @@
 # Dyslexia Simulator for Sketch
-See how your designs might feel for someone who struggles to read. Design with accessibility in mind.
+See how your designs might feel for users who have difficultly reading. Design with accessibility in mind.
 
 Dyslexia Simulator rearranges the letters within words, making it difficult to read. It's intended help designers see how their designs hold up for users who have a learning disability, are ELS, or are simply distracted. It's not intended to show what it’s like to have Dyslexia, but instead how it may feel when struggling to process information. Designing for users with cognitive impairments results in better design for everyone. 
 
