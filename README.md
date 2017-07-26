@@ -13,4 +13,11 @@ Designing for users with learning disabilities and cognitive impairments results
 Select an artboard, toggle Dyslexia Simulator, and watch the letters move. You can still make out the words, but reading is difficult. Toggle off to stop the shuffling and return to the original state.
 
 ## Note about Dyslexia
-There is no single “dyslexia experience”, and this plugin is not intended to tokenize the experience of anyone with Dyslexia. 
+There is no single “Dyslexia experience”, and this plugin is not intended to tokenize the experience of anyone with Dyslexia. 
+Some resources around Dyslexia and designing for cognitive impairments:
+
+[Dyslexia Basics](https://dyslexiaida.org/dyslexia-basics/)
+[The Paradox of Dyslexia: Slow Reading, Fast Thinking](http://www.yalescientific.org/2011/04/the-paradox-of-dyslexia-slow-reading-fast-thinking/)
+[WebAIM: Cognitive Impairments Overview](http://webaim.org/articles/cognitive/cognitive_too_little/
+https://www.w3.org/WAI/intro/people-use-web/diversity#cognitive)
+[WC3: Diversity of Web Users[(https://www.w3.org/WAI/intro/people-use-web/diversity)
