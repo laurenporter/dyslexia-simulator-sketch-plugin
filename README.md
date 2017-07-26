@@ -6,7 +6,7 @@ Dyslexia Simulator rearranges the letters within words on a page, making it diff
 Designing for users with learning disabilities and cognitive impairments results in better design for everyone. 
 
 ## How to Install
-1. [Download the latest version](https://github.com/laurenporter/dyslexia-simulator-sketch-plugin/blob/master/Dyslexia%20Simulator.sketchplugin.zip)
+1. [Download the latest version](https://github.com/laurenporter/dyslexia-simulator-sketch-plugin/raw/master/Dyslexia%20Simulator.sketchplugin.zip)
 2. Unzip downloaded file and double click the “.sketchplugin” file.
 
 ## How to use
