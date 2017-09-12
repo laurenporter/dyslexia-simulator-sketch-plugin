@@ -18,3 +18,6 @@ Here are some resources for learning more about Dyslexia and other cognitive imp
 - [The Paradox of Dyslexia: Slow Reading, Fast Thinking](http://www.yalescientific.org/2011/04/the-paradox-of-dyslexia-slow-reading-fast-thinking/)
 - [WebAIM: Cognitive Disabilities](http://webaim.org/articles/cognitive/cognitive_too_little/)
 - [WC3: Diversity of Web Users](https://www.w3.org/WAI/intro/people-use-web/diversity)
+
+### Authors
+Built by [Lauren Porter](https://twitter.com/PorPortPorter) & Navin Lal
